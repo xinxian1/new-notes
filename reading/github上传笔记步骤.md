@@ -59,3 +59,13 @@ git config --global user.name "xinxian1"
 git push
 
 就传上去了
+
+
+
+git status
+
+git add .
+
+git commit -m "add all"
+
+git push
